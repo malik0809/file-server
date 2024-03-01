@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "naam": "Conor McGregor",
+    "beschrijving": "Een iconische vechter bekend om zijn kracht en precisie.",
+    "leeftijd": 33,
+    "actief": true,
+    "geboortedatum": "1988-07-14",
+    "profielfotoUrl": "https://voorbeeld.com/conor_mcgregor_profiel.jpg",
+    "status": "actief",
+    "gewichtsklasse": "Lichtgewicht",
+    "trainer": {
+      "id": 301,
+      "naam": "John Kavanagh",
+      "specialiteit": "MMA",
+      "ervaring": 15,
+      "profielfotoUrl": "https://voorbeeld.com/john_kavanagh_profiel.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "naam": "Amanda Nunes",
+    "beschrijving": "Een dominante kampioen in zowel het vedergewicht als het bantamgewicht bij vrouwen.",
+    "leeftijd": 33,
+    "actief": true,
+    "geboortedatum": "1988-05-30",
+    "profielfotoUrl": "https://voorbeeld.com/amanda_nunes_profiel.jpg",
+    "status": "actief",
+    "gewichtsklasse": "Vedergewicht",
+    "trainer": {
+      "id": 302,
+      "naam": "Conan Silveira",
+      "specialiteit": "Braziliaanse Jiu-Jitsu",
+      "ervaring": 20,
+      "profielfotoUrl": "https://voorbeeld.com/conan_silveira_profiel.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "naam": "Khabib Nurmagomedov",
+    "beschrijving": "Een legendarische vechter bekend om zijn ongeëvenaarde grondvaardigheden.",
+    "leeftijd": 33,
+    "actief": false,
+    "geboortedatum": "1988-09-20",
+    "profielfotoUrl": "https://voorbeeld.com/khabib_nurmagomedov_profiel.jpg",
+    "status": "met pensioen",
+    "gewichtsklasse": "Lichtgewicht",
+    "trainer": {
+      "id": 303,
+      "naam": "Javier Mendez",
+      "specialiteit": "Sambo",
+      "ervaring": 25,
+      "profielfotoUrl": "https://voorbeeld.com/javier_mendez_profiel.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "naam": "Israel Adesanya",
+    "beschrijving": "Een sensationele kampioen in het middengewicht met een ongeëvenaarde stijl.",
+    "leeftijd": 32,
+    "actief": true,
+    "geboortedatum": "1989-07-22",
+    "profielfotoUrl": "https://voorbeeld.com/israel_adesanya_profiel.jpg",
+    "status": "actief",
+    "gewichtsklasse": "Middengewicht",
+    "trainer": {
+      "id": 304,
+      "naam": "Eugene Bareman",
+      "specialiteit": "Kickboksen",
+      "ervaring": 18,
+      "profielfotoUrl": "https://voorbeeld.com/eugene_bareman_profiel.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "naam": "Valentina Shevchenko",
+    "beschrijving": "Een onverslaanbare kampioene in het vlieggewicht voor vrouwen met een diverse vaardigheidset.",
+    "leeftijd": 33,
+    "actief": true,
+    "geboortedatum": "1988-03-07",
+    "profielfotoUrl": "https://voorbeeld.com/valentina_shevchenko_profiel.jpg",
+    "status": "actief",
+    "gewichtsklasse": "Vlieggewicht",
+    "trainer": {
+      "id": 305,
+      "naam": "Pavel Fedotov",
+      "specialiteit": "Muay Thai",
+      "ervaring": 22,
+      "profielfotoUrl": "https://voorbeeld.com/pavel_fedotov_profiel.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "naam": "Jon Jones",
+    "beschrijving": "Een van de grootste vechters aller tijden, bekend om zijn vaardigheden en veelzijdigheid.",
+    "leeftijd": 34,
+    "actief": true,
+    "geboortedatum": "1987-07-19",
+    "profielfotoUrl": "https://voorbeeld.com/jon_jones_profiel.jpg",
+    "status": "actief",
+    "gewichtsklasse": "Licht zwaargewicht",
+    "trainer": {
+      "id": 306,
+      "naam": "Mike Winkeljohn",
+      "specialiteit": "Kickboksen",
+      "ervaring": 20,
+      "profielfotoUrl": "https://voorbeeld.com/mike_winkeljohn_profiel.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "naam": "Rose Namajunas",
+    "beschrijving": "Een voormalig kampioene in het strogewicht voor vrouwen, bekend om haar technische vaardigheden.",
+    "leeftijd": 29,
+    "actief": true,
+    "geboortedatum": "1992-06-29",
+    "profielfotoUrl": "https://voorbeeld.com/rose_namajunas_profiel.jpg",
+    "status": "actief",
+    "gewichtsklasse": "Strogewicht",
+    "trainer": {
+      "id": 307,
+      "naam": "Trevor Wittman",
+      "specialiteit": "Striking",
+      "ervaring": 17,
+      "profielfotoUrl": "https://voorbeeld.com/trevor_wittman_profiel.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "naam": "Francis Ngannou",
+    "beschrijving": "Een angstaanjagende zwaargewichtvechter met verwoestende kracht.",
+    "leeftijd": 35,
+    "actief": true,
+    "geboortedatum": "1986-09-05",
+    "profielfotoUrl": "https://voorbeeld.com/francis_ngannou_profiel.jpg",
+    "status": "actief",
+    "gewichtsklasse": "Zwaargewicht",
+    "trainer": {
+      "id": 308,
+      "naam": "Fernand Lopez",
+      "specialiteit": "MMA",
+      "ervaring": 14,
+      "profielfotoUrl": "https://voorbeeld.com/fernand_lopez_profiel.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "naam": "Dustin Poirier",
+    "beschrijving": "Een taaie vechter met een indrukwekkend scala aan vaardigheden.",
+    "leeftijd": 33,
+    "actief": true,
+    "geboortedatum": "1989-01-19",
+    "profielfotoUrl": "https://voorbeeld.com/dustin_poirier_profiel.jpg",
+    "status": "actief",
+    "gewichtsklasse": "Lichtgewicht",
+    "trainer": {
+      "id": 309,
+      "naam": "Mike Brown",
+      "specialiteit": "Worstelen",
+      "ervaring": 19,
+      "profielfotoUrl": "https://voorbeeld.com/mike_brown_profiel.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "naam": "Jan Błachowicz",
+    "beschrijving": "Een solide kampioen in het licht zwaargewicht met een sterke vechtstijl.",
+    "leeftijd": 38,
+    "actief": true,
+    "geboortedatum": "1983-02-24",
+    "profielfotoUrl": "https://voorbeeld.com/jan_blachowicz_profiel.jpg",
+    "status": "actief",
+    "gewichtsklasse": "Licht zwaargewicht",
+    "trainer": {
+      "id": 310,
+      "naam": "Robert Jocz",
+      "specialiteit": "Kickboksen",
+      "ervaring": 16,
+      "profielfotoUrl": "https://voorbeeld.com/robert_jocz_profiel.jpg"
+    }
+  }
+]
