@@ -6,7 +6,7 @@
     "leeftijd": 33,
     "actief": true,
     "geboortedatum": "1988-07-14",
-    "profielfotoUrl": "https://voorbeeld.com/conor_mcgregor_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/mcgregor.png",
     "status": "actief",
     "gewichtsklasse": "Lichtgewicht",
     "trainer": {
@@ -14,7 +14,7 @@
       "naam": "John Kavanagh",
       "specialiteit": "MMA",
       "ervaring": 15,
-      "profielfotoUrl": "https://voorbeeld.com/john_kavanagh_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/John_Kavanagh.jpg"
     }
   },
   {
@@ -24,7 +24,7 @@
     "leeftijd": 33,
     "actief": true,
     "geboortedatum": "1988-05-30",
-    "profielfotoUrl": "https://voorbeeld.com/amanda_nunes_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/NUNES_AMANDA.png",
     "status": "actief",
     "gewichtsklasse": "Vedergewicht",
     "trainer": {
@@ -32,7 +32,7 @@
       "naam": "Conan Silveira",
       "specialiteit": "Braziliaanse Jiu-Jitsu",
       "ervaring": 20,
-      "profielfotoUrl": "https://voorbeeld.com/conan_silveira_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/silveira.jpeg"
     }
   },
   {
@@ -42,7 +42,7 @@
     "leeftijd": 33,
     "actief": false,
     "geboortedatum": "1988-09-20",
-    "profielfotoUrl": "https://voorbeeld.com/khabib_nurmagomedov_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/khabib.png",
     "status": "met pensioen",
     "gewichtsklasse": "Lichtgewicht",
     "trainer": {
@@ -50,7 +50,7 @@
       "naam": "Javier Mendez",
       "specialiteit": "Sambo",
       "ervaring": 25,
-      "profielfotoUrl": "https://voorbeeld.com/javier_mendez_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/javier%20mendez.jpeg"
     }
   },
   {
@@ -60,7 +60,7 @@
     "leeftijd": 32,
     "actief": true,
     "geboortedatum": "1989-07-22",
-    "profielfotoUrl": "https://voorbeeld.com/israel_adesanya_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/adesanya.png",
     "status": "actief",
     "gewichtsklasse": "Middengewicht",
     "trainer": {
@@ -68,7 +68,7 @@
       "naam": "Eugene Bareman",
       "specialiteit": "Kickboksen",
       "ervaring": 18,
-      "profielfotoUrl": "https://voorbeeld.com/eugene_bareman_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/baremen.jpeg"
     }
   },
   {
@@ -78,7 +78,7 @@
     "leeftijd": 33,
     "actief": true,
     "geboortedatum": "1988-03-07",
-    "profielfotoUrl": "https://voorbeeld.com/valentina_shevchenko_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/shevchenko.png",
     "status": "actief",
     "gewichtsklasse": "Vlieggewicht",
     "trainer": {
@@ -86,7 +86,7 @@
       "naam": "Pavel Fedotov",
       "specialiteit": "Muay Thai",
       "ervaring": 22,
-      "profielfotoUrl": "https://voorbeeld.com/pavel_fedotov_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/fedotov.jpeg"
     }
   },
   {
@@ -96,7 +96,7 @@
     "leeftijd": 34,
     "actief": true,
     "geboortedatum": "1987-07-19",
-    "profielfotoUrl": "https://voorbeeld.com/jon_jones_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/jonjones.png",
     "status": "actief",
     "gewichtsklasse": "Licht zwaargewicht",
     "trainer": {
@@ -104,7 +104,7 @@
       "naam": "Mike Winkeljohn",
       "specialiteit": "Kickboksen",
       "ervaring": 20,
-      "profielfotoUrl": "https://voorbeeld.com/mike_winkeljohn_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/winkeljohn.jpeg"
     }
   },
   {
@@ -114,7 +114,7 @@
     "leeftijd": 29,
     "actief": true,
     "geboortedatum": "1992-06-29",
-    "profielfotoUrl": "https://voorbeeld.com/rose_namajunas_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/rose%20namajunas.png",
     "status": "actief",
     "gewichtsklasse": "Strogewicht",
     "trainer": {
@@ -122,7 +122,7 @@
       "naam": "Trevor Wittman",
       "specialiteit": "Striking",
       "ervaring": 17,
-      "profielfotoUrl": "https://voorbeeld.com/trevor_wittman_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/trevor%20wittman.jpeg"
     }
   },
   {
@@ -132,7 +132,7 @@
     "leeftijd": 35,
     "actief": true,
     "geboortedatum": "1986-09-05",
-    "profielfotoUrl": "https://voorbeeld.com/francis_ngannou_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/francis%20ngannou.png",
     "status": "actief",
     "gewichtsklasse": "Zwaargewicht",
     "trainer": {
@@ -140,7 +140,7 @@
       "naam": "Fernand Lopez",
       "specialiteit": "MMA",
       "ervaring": 14,
-      "profielfotoUrl": "https://voorbeeld.com/fernand_lopez_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/Fernand%20Lopez.jpeg"
     }
   },
   {
@@ -150,7 +150,7 @@
     "leeftijd": 33,
     "actief": true,
     "geboortedatum": "1989-01-19",
-    "profielfotoUrl": "https://voorbeeld.com/dustin_poirier_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/dustin%20poirier.png",
     "status": "actief",
     "gewichtsklasse": "Lichtgewicht",
     "trainer": {
@@ -158,7 +158,7 @@
       "naam": "Mike Brown",
       "specialiteit": "Worstelen",
       "ervaring": 19,
-      "profielfotoUrl": "https://voorbeeld.com/mike_brown_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/mike%20brown.jpeg"
     }
   },
   {
@@ -168,7 +168,7 @@
     "leeftijd": 38,
     "actief": true,
     "geboortedatum": "1983-02-24",
-    "profielfotoUrl": "https://voorbeeld.com/jan_blachowicz_profiel.jpg",
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/main/pictures/fighters/Jan%20Blachowicz.png",
     "status": "actief",
     "gewichtsklasse": "Licht zwaargewicht",
     "trainer": {
@@ -176,7 +176,7 @@
       "naam": "Robert Jocz",
       "specialiteit": "Kickboksen",
       "ervaring": 16,
-      "profielfotoUrl": "https://voorbeeld.com/robert_jocz_profiel.jpg"
+      "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/robert%20jocz.jpeg"
     }
   }
 ]
