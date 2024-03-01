@@ -4,69 +4,69 @@
     "naam": "John Kavanagh",
     "specialiteit": "MMA",
     "ervaring": 15,
-    "profielfotoUrl": "https://voorbeeld.com/john_kavanagh_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/John_Kavanagh.jpg"
   },
   {
     "id": 302,
     "naam": "Conan Silveira",
     "specialiteit": "Braziliaanse Jiu-Jitsu",
     "ervaring": 20,
-    "profielfotoUrl": "https://voorbeeld.com/conan_silveira_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/silveira.jpeg"
   },
   {
     "id": 303,
     "naam": "Javier Mendez",
     "specialiteit": "Sambo",
     "ervaring": 25,
-    "profielfotoUrl": "https://voorbeeld.com/javier_mendez_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/javier%20mendez.jpeg"
   },
   {
     "id": 304,
     "naam": "Eugene Bareman",
     "specialiteit": "Kickboksen",
     "ervaring": 18,
-    "profielfotoUrl": "https://voorbeeld.com/eugene_bareman_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/baremen.jpeg"
   },
   {
     "id": 305,
     "naam": "Pavel Fedotov",
     "specialiteit": "Muay Thai",
     "ervaring": 22,
-    "profielfotoUrl": "https://voorbeeld.com/pavel_fedotov_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/fedotov.jpeg"
   },
   {
     "id": 306,
     "naam": "Mike Winkeljohn",
     "specialiteit": "Kickboksen",
     "ervaring": 20,
-    "profielfotoUrl": "https://voorbeeld.com/mike_winkeljohn_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/winkeljohn.jpeg"
   },
   {
     "id": 307,
     "naam": "Trevor Wittman",
     "specialiteit": "Striking",
     "ervaring": 17,
-    "profielfotoUrl": "https://voorbeeld.com/trevor_wittman_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/trevor%20wittman.jpeg"
   },
   {
     "id": 308,
     "naam": "Fernand Lopez",
     "specialiteit": "MMA",
     "ervaring": 14,
-    "profielfotoUrl": "https://voorbeeld.com/fernand_lopez_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/Fernand%20Lopez.jpeg"
   },
   {
     "id": 309,
     "naam": "Mike Brown",
     "specialiteit": "Worstelen",
     "ervaring": 19,
-    "profielfotoUrl": "https://voorbeeld.com/mike_brown_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/mike%20brown.jpeg"
   },
   {
     "id": 310,
     "naam": "Robert Jocz",
     "specialiteit": "Kickboksen",
     "ervaring": 16,
-    "profielfotoUrl": "https://voorbeeld.com/robert_jocz_profiel.jpg"
+    "profielfotoUrl": "https://raw.githubusercontent.com/malik0809/file-server/a86ceac992c43027aed7039974110327eb1a1f7a/pictures/trainers/robert%20jocz.jpeg"
   }
 ]
